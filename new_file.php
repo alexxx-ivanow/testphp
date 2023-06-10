@@ -8,4 +8,9 @@ class MyClass
     {
         return $this->name;
     }
+
+    public function getAge()
+    {
+        return $this->age;
+    }
 }
